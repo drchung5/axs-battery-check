@@ -121,3 +121,7 @@ Use synthetic packets for edge cases and appropriately captured, masked packets 
 [This project is based on tarekrached/esphome-sram-axs](https://github.com/tarekrached/esphome-sram-axs); its existing ESPHome component and SRAM AXS protocol investigation are the working baseline and should remain credited as the project evolves.
 
 [ShannoG/home-assistant-sram-axs](https://github.com/ShannoG/home-assistant-sram-axs) is a passive HA-side advertisement decoder; [karl-petter/sram-axs-for-ha](https://github.com/karl-petter/sram-axs-for-ha) uses GATT reads. They are useful adjacent references, not proof that all devices expose the same fields or connection behavior. Credit relevant work, compare evidence carefully, and report findings that affect their decodes upstream when useful.
+
+### Hardware
+
+I am building for a M5Stack Official ATOM Lite Compact ESP32 IoT Development Kit
